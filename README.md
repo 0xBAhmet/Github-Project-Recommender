@@ -22,17 +22,16 @@ This is a Python application that recommends GitHub projects and users based on 
 ## How to Use
 
 1. Clone the repository or download the files.
-2. Install the required dependencies by running the command `pip install -r requirements.txt`.
-3. Run the `main.py` file to start the application.
-4. Use the "Upload User Data" button to upload a text file containing user data.
-5. Use the "Upload Repository Data" button to upload a text file containing repository data.
-6. Use the "Upload Star Data" button to upload a text file containing star data.
-7. Select a user from the left panel to recommend repositories or GitHub users.
-8. Select a programming language to filter the recommendations (optional).
-9. Choose a distance algorithm for similarity calculation.
-10. Specify the number of recommendations to display (optional).
-11. Click the corresponding button ("Recommend Repository" or "Recommend GitHub User") to get the recommendations.
-12. The recommendations will be displayed in the right panel.
+2. Run the `main.py` file to start the application.
+3. Use the "Upload User Data" button to upload a text file containing user data.
+4. Use the "Upload Repository Data" button to upload a text file containing repository data.
+5. Use the "Upload Star Data" button to upload a text file containing star data.
+6. Select a user from the left panel to recommend repositories or GitHub users.
+7. Select a programming language to filter the recommendations (optional).
+8. Choose a distance algorithm for similarity calculation.
+9. Specify the number of recommendations to display (optional).
+10. Click the corresponding button ("Recommend Repository" or "Recommend GitHub User") to get the recommendations.
+11. The recommendations will be displayed in the right panel.
 
 Feel free to customize and enhance the application according to your needs.
 
@@ -73,14 +72,13 @@ Github Project Recommender, kullanıcıların ve projelerin GitHub üzerindeki v
 ## Nasıl Kullanılır
 
 1. Depoyu klonlayın veya dosyaları indirin.
-2. Gerekli bağımlılıkları yüklemek için `pip install -r requirements.txt` komutunu çalıştırın.
-3. Uygulamayı başlatmak için `main.py` dosyasını çalıştırın.
-4. Kullanıcı verilerini içeren bir metin dosyasını yüklemek için "Kullanıcı Verilerini Yükle" düğmesini kullanın.
-5. Depo verilerini içeren bir metin dosyasını yüklemek için "Depo Verilerini Yükle" düğmesini kullanın.
-6. Yıldız verilerini içeren bir metin dosyasını yüklemek için "Yıldız Verilerini Yükle" düğmesini kullanın.
-7. Sağ paneldeki kullanıcılardan birini seçerek depoları veya GitHub kullanıcılarını önerin.
-8. Önerileri filtrelemek için bir programlama dilini seçin (isteğe bağlı).
-9. Benzerlik hesaplaması için bir uzaklık algoritması seçin.
-10. Görüntülenecek öneri sayısını belirtin (isteğe bağlı).
-11. Önerileri almak için ilgili düğmeye ("Depo Öner" veya "GitHub Kullanıcısı Öner") tıklayın.
-12. Öneriler sağ panelde görüntülenecektir.
+2. Uygulamayı başlatmak için `main.py` dosyasını çalıştırın.
+3. Kullanıcı verilerini içeren bir metin dosyasını yüklemek için "Kullanıcı Verilerini Yükle" düğmesini kullanın.
+4. Depo verilerini içeren bir metin dosyasını yüklemek için "Depo Verilerini Yükle" düğmesini kullanın.
+5. Yıldız verilerini içeren bir metin dosyasını yüklemek için "Yıldız Verilerini Yükle" düğmesini kullanın.
+6. Sağ paneldeki kullanıcılardan birini seçerek depoları veya GitHub kullanıcılarını önerin.
+7. Önerileri filtrelemek için bir programlama dilini seçin (isteğe bağlı).
+8. Benzerlik hesaplaması için bir uzaklık algoritması seçin.
+9. Görüntülenecek öneri sayısını belirtin (isteğe bağlı).
+10. Önerileri almak için ilgili düğmeye ("Depo Öner" veya "GitHub Kullanıcısı Öner") tıklayın.
+11. Öneriler sağ panelde görüntülenecektir.
